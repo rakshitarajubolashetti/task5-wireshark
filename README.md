@@ -49,6 +49,7 @@ This analysis provided insight into how devices communicate securely using DNS, 
 
 ---
 
-**Report Prepared By:**  
-Rakshita Bolashetti  
-Date: *(write today’s date)*  
+## Author
+Name: Rakshita Raju Bolashetti  
+Internship: Cybersecurity Internship (Elevate Labs)      
+Date: 27 October 2025
